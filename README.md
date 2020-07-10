@@ -1,1 +1,1 @@
-# VKcup2020
+# VKcup2020, competition, second stage.
